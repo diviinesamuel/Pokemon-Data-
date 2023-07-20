@@ -48,6 +48,6 @@ By following these steps, we aimed to create a data story that would not only in
 - pyplot 
 
 ## Screen Recording of Visualization
-https://www.loom.com/share/6234dc447f77406781030d0064f3f311?sid=ca5a84c4-3f2f-471e-adc8-030f50f5b268
+(https://www.loom.com/share/ea3bd92f98924a638421e81cb70ffe5e?sid=b009de8a-843d-4c7a-a43d-951341073d53)
 ## Conclusion
 In summary, the Pokémon franchise has captivated a global audience with its expansive universe of creatures, trainers, and exciting journeys. Through our analysis of Pokémon data, we have uncovered intriguing insights and trends that illuminate various aspects of this adored franchise. By examining the distribution of Pokémon types, we have identified the most common and rarest types, which can aid trainers in devising effective team strategies and anticipating the strengths and weaknesses of different types. Our examination of Pokémon attributes and characteristics has provided valuable insights into power dynamics and battle strategies. By comparing these attributes across types, trainers can make well-informed decisions regarding team composition and combat tactics. This data story has deepened our understanding of the Pokémon universe and its profound impact on fans worldwide. Whether you are an ardent Pokémon trainer or simply curious about the franchise, delving into the data behind Pokémon offers captivating insights and fosters a greater appreciation for this cherished world of creatures and adventure.
